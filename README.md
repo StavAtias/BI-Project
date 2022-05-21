@@ -2,4 +2,4 @@
 BI Project 
 Niv Ben Avraham
 Ido Stern
-Stav Ataias
+Stav Atias
