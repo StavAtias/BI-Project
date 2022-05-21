@@ -1,2 +1,2 @@
 # Customer Personality Analysis
-BI Project 
+BI Project - Ido
