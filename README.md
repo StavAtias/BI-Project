@@ -1,2 +1,2 @@
-# Customer Personality Analysis
-BI Project
+#BI Project
+BI Project - Customer Personality Analysis
